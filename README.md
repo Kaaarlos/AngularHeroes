@@ -1,5 +1,8 @@
 # AngularTourOfHeroes2
 
+Carlos Alnerto Ceja Zapata
+https://635703c2bdaf402f317a2539--anguherores.netlify.app/dashboard
+
 ![image](https://user-images.githubusercontent.com/73798412/197627775-c07b8d8f-da22-4f4e-91b1-5f617943afcd.png)
 ![image](https://user-images.githubusercontent.com/73798412/197627803-defcef20-b0cc-4f13-a1c4-d2242de6d7c2.png)
 ![image](https://user-images.githubusercontent.com/73798412/197627846-e84f28e9-6cbe-4a80-be6b-9ba168202ee0.png)
