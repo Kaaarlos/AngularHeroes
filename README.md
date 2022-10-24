@@ -1,5 +1,10 @@
 # AngularTourOfHeroes2
 
+![image](https://user-images.githubusercontent.com/73798412/197627775-c07b8d8f-da22-4f4e-91b1-5f617943afcd.png)
+![image](https://user-images.githubusercontent.com/73798412/197627803-defcef20-b0cc-4f13-a1c4-d2242de6d7c2.png)
+![image](https://user-images.githubusercontent.com/73798412/197627846-e84f28e9-6cbe-4a80-be6b-9ba168202ee0.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
@@ -12,16 +17,3 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
